@@ -19,7 +19,10 @@
         <TextView
             android:layout_width="@dimen/lbl_edit_image_control"
             android:layout_height="wrap_content"
-            android:text="@string/lbl_brightness" />
+            android:fontFamily="casual"
+            android:text="@string/lbl_brightness"
+            android:textColor="@android:color/holo_red_dark" />
+
 
         <SeekBar
             android:id="@+id/seekbar_brightness"
@@ -39,7 +42,9 @@
         <TextView
             android:layout_width="@dimen/lbl_edit_image_control"
             android:layout_height="wrap_content"
-            android:text="@string/lbl_contrast" />
+            android:fontFamily="casual"
+            android:text="@string/lbl_contrast"
+            android:textColor="@android:color/holo_red_dark" />
 
         <SeekBar
             android:id="@+id/seekbar_contrast"
@@ -58,7 +63,9 @@
         <TextView
             android:layout_width="@dimen/lbl_edit_image_control"
             android:layout_height="wrap_content"
-            android:text="@string/lbl_saturation" />
+            android:fontFamily="casual"
+            android:text="@string/lbl_saturation"
+            android:textColor="@android:color/holo_red_dark" />
 
         <SeekBar
             android:id="@+id/seekbar_saturation"
@@ -72,7 +79,9 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
+        android:fontFamily="casual"
         android:inputType="textPersonName"
-        android:text="Add Picture Name here" />
+        android:text="Add Picture Name here"
+        android:textColor="@android:color/holo_red_dark" />
 
 </LinearLayout>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/InstagramFilters.iml" filepath="$PROJECT_DIR$/InstagramFilters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/InstagramFiltersRegistr.iml" filepath="$PROJECT_DIR$/InstagramFiltersRegistr.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/photofilterssdk/photofilterssdk.iml" filepath="$PROJECT_DIR$/photofilterssdk/photofilterssdk.iml" />
     </modules>

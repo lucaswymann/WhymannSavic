@@ -22,6 +22,7 @@
         android:layout_height="120dp"
         android:layout_above="@+id/tabs"
         android:layout_below="@+id/image_preview"
+        android:background="@android:color/holo_blue_dark"
         app:layout_behavior="@string/appbar_scrolling_view_behavior" />
 
     <android.support.design.widget.TabLayout
@@ -29,6 +30,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
+        android:background="@android:color/holo_red_dark"
         app:tabGravity="fill"
         app:tabMode="fixed" />
 
