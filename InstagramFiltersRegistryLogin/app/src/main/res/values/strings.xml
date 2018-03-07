@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Image-Ination</string>
+    <string name="activity_title_main">Image-Ination</string>
+    <string name="action_settings">Settings</string>
+    <string name="filters">Image-Ination's Filters</string>
+    <string name="edit">EDIT</string>
+
+    <string name="lbl_brightness">BRIGHTNESS</string>
+    <string name="lbl_contrast">CONTRAST</string>
+    <string name="lbl_saturation">SATURATION</string>
+    <string name="tab_filters">FILTERS</string>
+    <string name="tab_edit">EDIT</string>
+
+    <string name="loginbutton">Free your mind</string>
+    <string name="registerbutton">Want to build your own Image-Ination?</string>
+    <string name="homepage_text">Welcome to Image-Ination</string>
+    <color name="black">#151515</color>
+    <string name="roboto_medium">sans-serif-medium</string>
+    <string name="font_family_black">sans-serif-black</string>
+    <string name="filter_normal">Normal</string>
+    <string name="action_save">SAVE</string>
+    <string name="action_open">OPEN</string>
+    <string name="action_logout">LOGOUT</string>
+    <string name="textview">Register</string>
+    <string name="name">Username</string>
+    <string name="password">Password</string>
+    <string name="repeatPassword">Repeat Password</string>
+    <string name="email">Email</string>
+    <string name="register_button">Let your Image-Ination free</string>
+    <string name="back_button">Go back to Homepage</string>
+</resources>
